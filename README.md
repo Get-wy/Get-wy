@@ -5,7 +5,7 @@
 -->
 ### Hi there 👋
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm WangYu</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Yu</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Get-wy" alt="Get-wy" /> </p>
