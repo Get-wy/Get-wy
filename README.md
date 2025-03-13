@@ -27,7 +27,7 @@
 
 - 🔭 I am currently working in Shanghai. 
 
-- 🌱 I am learning about the fund. 
+- 🌱 I am learning about the fund and AI. 
 
 - 👯 I hope to cooperate on open source projects. 
 
