@@ -5,7 +5,7 @@
 -->
 ### 你好 👋
 
-<h1 align="center">你好 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, 我是小余</h1>
+<h1 align="center">你好 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, 我是小宇</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Get-wy" alt="Get-wy" /> </p>
 <br />
@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>关于我</b> <br>
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> 我是小余，来自中国。
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> 我是小宇，来自中国。
 
 - 🔭 目前在上海工作。
 
